@@ -1,8 +1,11 @@
 # Simple mail parser for PHP
 
+This is an independent PHP library for parsing internet message format ([RFC5322](https://tools.ietf.org/html/rfc5322)).  
+
+[![Build Status](https://travis-ci.org/ukkz/mailparser.svg?branch=master)](https://travis-ci.org/ukkz/mailparser)
+
 ## About
 
-This is an independent PHP library for parsing internet message format ([RFC5322](https://tools.ietf.org/html/rfc5322)).  
 PHPでインターネットメッセージフォーマット（[RFC5322](https://tools.ietf.org/html/rfc5322)）をパースするライブラリです。    
 有名どころのライブラリあるけどなんかよくわからんが全然インストールできなかったので再発明したものの供養です。よって依存関係はありません。  
 RFCは流し読みなので全部はテストしてません。
