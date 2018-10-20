@@ -1,0 +1,35 @@
+{
+    "name": "ukkz/mailparser",
+    "description": "An independent parser library for internet message format.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "uko",
+            "email": "uko@aol.jp"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0",
+        "friendsofphp/php-cs-fixer": "^2.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "MailParser\\" : "src/"
+            
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MailParserTest\\" : "tests/"
+        }
+    },
+    "scripts": {
+        "php-format": "php-cs-fixer fix .",
+        "php-cov": "php ./vendor/bin/phpunit"
+    }
+}

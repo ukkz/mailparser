@@ -1,0 +1,62 @@
+From sender@fromgmail.test  Sun Oct 21 04:09:47 2018
+Return-Path: <sender@fromgmail.test>
+X-Original-To: ukkz@mailparser.test
+Delivered-To: tester@mailparser.test
+Received: from mail-ua1-f41.google.com (mail-ua1-f41.google.com [209.85.222.41])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mail.mailparser.test (Postfix) with ESMTPS id 848C7120498
+	for <ukkz@mailparser.test>; Sun, 21 Oct 2018 04:09:47 +0900 (JST)
+Received: by mail-ua1-f41.google.com with SMTP id c21so8610949uap.7
+        for <ukkz@mailparser.test>; Sat, 20 Oct 2018 12:09:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=2W79/lYKWGPyw6+1Iitph4fHcwSSD7jEfPsKdUxGxqQ=;
+        b=DUhQ4j7jtXtHq4uL+CWb+YEFR7Q2k+CNDIJND+Ed63M42O1iNnjK5NnQ2f9ZkiF5ML
+         Vf2o7eWyOh0R0vcPFImrF3j3c6zM5Gt92qaOWDgWBYgmKWkmdL/R5h8iGntkXd9haizP
+         tbuT3i5ad8CXPgVkLpdxvCttO5qm187RY3/uT3KF+XgbOwY8u6PG5wK7rXjxoopaXKay
+         f+l67kIJ6abECsADYF4RoMyaCCLm5tqmXowlVUFDjodgh4EqFlIQ2EsVNo7fa94FHX4D
+         ApXx/Uh6kICtooHTepTcWtHY2ZPo7f2nMA1bS6y2jen6MNij+oK/R/7kZoGHAuvnWvQK
+         cJQA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=2W79/lYKWGPyw6+1Iitph4fHcwSSD7jEfPsKdUxGxqQ=;
+        b=tDUBHJKYXVrjB5a+6IfK29/+f3luOPoFMYdyjqG6LHfxhQI9LXRMEO8YlJ5ihEjDct
+         bsBc6xN1ybooF2gcT7vUmSG79Nm19uARB3ulwsUouA6ZxHp/r76gxLISB5cTzNzSDMqx
+         Cd+9DAWpRtkX90II3XmmvJzJZLAZeNwKZAzu2zHMSwNEVomslNE/q6ZdDBF2IJIUPUUN
+         rOfi0vBJKU49csyQ8VK0UlBiwufPJV2taiXbvdgYMhFUbrne2nNvm5klSEPayaGUfbeC
+         j5bWa1i/yjZTiElYdHJojABUljJg3HqsnFhLuQYOqtIK6oUfH0CDzRYQCPMVNNP4En6r
+         I15w==
+X-Gm-Message-State: ABuFfoj59q3cSoaZjCdKu2Ke5WEMe4N83u3CWwwcSUaqI9D4Iqb9xP4R
+	bPfSyb413WCrnF0lm30XZAVsWSlF3xTPwwK4w3Mo6w==
+X-Google-Smtp-Source: ACcGV62rF4KDRXaZSJoTVAOkh68a1CNiuQmmfoL6O3HNTeX8+NU6cVPmZrxM8UemJtlLgDmPDQogvnJWNCXrvaYgIL0=
+X-Received: by 2002:ab0:7196:: with SMTP id l22mr17812431uao.11.1540062585396;
+ Sat, 20 Oct 2018 12:09:45 -0700 (PDT)
+MIME-Version: 1.0
+From: Sender <sender@fromgmail.test>
+Date: Sun, 21 Oct 2018 04:09:34 +0900
+Message-ID: <CADfwkOWme8Tc93G60F=0KNDhh_eLK8KX2cuhc6WjX+Cud4mtGQ@mail.gmail.com>
+Subject: =?UTF-8?B?44GK44Gr44GO44KK?=
+To: ukkz@mailparser.test
+Content-Type: multipart/alternative; boundary="00000000000055a33d0578adc30e"
+
+--00000000000055a33d0578adc30e
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+44GK44GL44GLDQrjgoHjgpPjgZ/jgYTjgZMNCuaYhuW4gw0K44K344Oj44KxDQrjgZ/jgb7jgZQN
+Cg==
+--00000000000055a33d0578adc30e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><font color=3D"#783f04">=E3=81=8A=E3=81=8B=E3=81=8B</font>=
+<div><span style=3D"background-color:rgb(204,0,0)"><font color=3D"#ffffff">=
+=E3=82=81=E3=82=93=E3=81=9F=E3=81=84=E3=81=93</font></span></div><div><font=
+ color=3D"#6aa84f">=E6=98=86=E5=B8=83</font></div><div><font color=3D"#e066=
+66">=E3=82=B7=E3=83=A3=E3=82=B1</font></div><div><font color=3D"#f1c232">=
+=E3=81=9F=E3=81=BE=E3=81=94</font></div></div>
+
+--00000000000055a33d0578adc30e--

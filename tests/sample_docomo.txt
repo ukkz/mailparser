@@ -1,0 +1,27 @@
+From sender@fromdocomo.test  Sun Oct 21 04:11:33 2018
+Return-Path: <sender@fromdocomo.test>
+X-Original-To: ukkz@mailparser.test
+Delivered-To: test@mailparser.test
+Received: from docomo.ne.jp (mail103.docomo.ne.jp [203.138.203.3])
+	by mail.mailparser.test (Postfix) with ESMTP id 357DE120534
+	for <ukkz@mailparser.test>; Sun, 21 Oct 2018 04:11:33 +0900 (JST)
+Received: from docomo.ne.jp ([10.242.32.66])
+ by mfsmax.docomo.ne.jp(DOCOMO Mail Server Ver2.0) with SMTP id 35f000825b86cd321825
+ for <ukkz@mailparser.test>; Sun, 21 Oct 2018 04:11:32 +0900 (JST)
+X-DCMMail: spmode
+Date: Sun, 21 Oct 2018 04:11:30 +0900
+From: =?iso-2022-jp?B?U2VuZGVy?=<sender@fromdocomo.test>
+To: =?iso-2022-jp?B?InVra3pAbWFpbHBhcnNlci50ZXN0Ig==?=<ukkz@mailparser.test>
+Subject: =?utf-8?B?44K544OG44O844Kt?=
+Message-ID: <b1cu08rmpk66bmpdl13vutoo.1540062690338@docomo.ne.jp>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: Base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1TZWN1cml0eS1Qb2xpY3kiIGNv
+bnRlbnQ9InNjcmlwdC1zcmMgJ3NlbGYnOyBpbWctc3JjICogY2lkOiBkYXRhOjsiPjxzdHlsZSBp
+ZD0ib3V0Z29pbmctZm9udC1zZXR0aW5ncyI+I3Jlc3BvbnNlX2NvbnRhaW5lcl9CQlBQSUR7Zm9u
+dC1mYW1pbHk6IGluaXRpYWw7IGZvbnQtc2l6ZTppbml0aWFsOyBjb2xvcjogaW5pdGlhbDt9PC9z
+dHlsZT48L2hlYWQ+PGJvZHkgY29udGVudGVkaXRhYmxlPSJmYWxzZSI+PGI+44K144O844Ot44Kk
+44OzPC9iPuOBruODn+ODh+OCo+OCouODoOODrOOCouOBpzwvYm9keT48L2h0bWw+
+

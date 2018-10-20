@@ -1,0 +1,4 @@
+.DS_Store
+vendor/
+.php_cs.cache
+.travis.yml
