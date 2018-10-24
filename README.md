@@ -6,13 +6,17 @@ This is an independent PHP library for parsing internet message format ([RFC5322
 
 ## About
 
-PHPでインターネットメッセージフォーマット（[RFC5322](https://tools.ietf.org/html/rfc5322)）をパースするライブラリです。    
+This library parses multi-parted mail format (internet message format [RFC5322](https://tools.ietf.org/html/rfc5322)).
+
+PHPでメールフォーマット（[RFC5322](https://tools.ietf.org/html/rfc5322)）をパースするライブラリです。    
 有名どころのライブラリあるけどなんかよくわからんが全然インストールできなかったので再発明したものの供養です。よって依存関係はありません。  
 RFCは流し読みなので全部はテストしてません。
 
+マルチパートに対応しています。
+
 ## Requirements
 
-- PHP 7 以上（タイプヒントがあるのでPHP5だとたぶんエラー出る）
+- PHP: >= 7.0
 
 ## Install
 
@@ -20,9 +24,10 @@ RFCは流し読みなので全部はテストしてません。
 
 ## Usage
 
-- /etc/aliases に追記
+- add below to `/etc/aliases`
 
-`test_local_user: "| /usr/bin/php -f /tmp/example.php > /tmp/mailparser.log 2>&1"`
+`test_local_user: "| /usr/bin/php -f /tmp/example.php > /tmp/mailparser.log 2>&1"`  
+特定のユーザ宛にメールを送ればフックで以下のスクリプトが起動するようになってればOKです。
 
 - /tmp/example.php
 
@@ -51,4 +56,5 @@ echo "From: $sender_address \n$text_body";
 
 ## License
 
-MITライセンスです。LICENSE.txtを参照のこと。
+MIT License:  
+See LICENSE.txt .
